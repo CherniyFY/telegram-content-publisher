@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX `telegram_connections_bot_username_unique` ON `telegram_connections` (`bot_username`);

@@ -1,0 +1,14 @@
+{
+  "name": "telegram-content-publisher",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "start": "node --env-file=.env server.ts",
+    "test": "node --test tests/*.test.ts"
+  }
+}

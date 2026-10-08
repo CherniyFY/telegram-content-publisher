@@ -1,0 +1,9 @@
+{
+  "content_key": "example_selected_content_001",
+  "copies": {
+    "ru": "Пример выбранного сообщения. Замените его своим содержанием перед отправкой.",
+    "en": "Example selected message. Replace it with your content before publishing.",
+    "pt": "Exemplo de mensagem selecionada. Substitua pelo seu conteúdo antes de enviar."
+  },
+  "include_owner": false
+}
